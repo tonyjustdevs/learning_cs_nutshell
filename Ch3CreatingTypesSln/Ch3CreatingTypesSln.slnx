@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../ch2soln/GetInApp/GetInApp.csproj" Id="c1bf968a-3553-4436-bd86-14a3ab60ba0a" />
+  <Project Path="../ch2soln/GetOutApp/GetOutApp.csproj" Id="7ba2037e-9222-4cb0-a034-f5091f738ce8" />
+  <Project Path="../ch2soln/ParamTypesApp/ParamTypesApp.csproj" Id="e3c3e322-a1b3-419d-847f-611f917e6733" />
+  <Project Path="../ch2soln/ParamTypesApp2/ParamTypesApp2.csproj" Id="82ae6381-07e5-4dcd-9c39-cf35688e55d3" />
+  <Project Path="../ch2soln/Val_vs_Ref_Types/Val_vs_Ref_Types.csproj" Id="1aeaaa2e-cd81-44c6-adfa-df5a568d8c0c" />
+  <Project Path="AllYouBaseBelongToUs/AllYouBaseBelongToUs.csproj" />
+  <Project Path="CastingAndRefConversion/CastingAndRefConversion.csproj" />
+  <Project Path="cast_as_is_operators/cast_as_is_operators.csproj" />
+  <Project Path="OutParamApp/OutParamApp.csproj" Id="0add9044-8e2e-4ad7-aafe-edf6431f70b9" />
+  <Project Path="StaticConstructors/StaticConstructors.csproj" />
+</Solution>
