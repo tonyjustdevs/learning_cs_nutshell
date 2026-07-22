@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="DelegateAsParam2/DelegatesAsParam2.csproj" />
+  <Project Path="DelegatesApp/DelegatesApp.csproj" />
+  <Project Path="DelegatesAsParam/DelegatesAsParam.csproj" />
+  <Project Path="DGPropertyApp/DGPropertyApp.csproj" />
+  <Project Path="MultiDelegateApp2/MultiDelegateApp2.csproj" Id="e3c04026-c5dc-4489-a82e-bb8fa557afe8" />
+  <Project Path="MultiDelegateCallingApp/MultiDelegateApp.csproj" Id="14a2ae0d-ed5b-4a55-91cf-de7ebf986977" />
+  <Project Path="ProgressReporterDG/ProgressReporterDG.csproj" />
+</Solution>
