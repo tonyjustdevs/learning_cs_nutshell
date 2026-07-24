@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GenericTypeApp1/GenericTypeApp1.csproj" />
+  <Project Path="UnboundedGensApp/UnboundedGensApp.csproj" Id="4b547f23-37b1-442b-9227-0e662e665aac" />
+</Solution>

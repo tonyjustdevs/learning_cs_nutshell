@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/UnBoundedGenApps/" />
+  <Folder Name="/UnBoundedGenApps/src/">
+    <Project Path="UnBoundedGenApps/src/UnBoundedGenApps.csproj" />
+  </Folder>
+</Solution>

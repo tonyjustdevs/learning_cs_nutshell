@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/StructApp1/" />
+  <Folder Name="/StructApp1/src/">
+    <Project Path="StructApp1/src/StructApp1.csproj" />
+  </Folder>
+  <Project Path="StructApp2/StructApp2.csproj" Id="752c4fd2-cec2-4776-80b4-408563eb552e" />
+  <Project Path="StructApp3/StructApp3.csproj" Id="02403e20-2952-4b66-8de9-a6866e2ff702" />
+  <Project Path="StructWebOptions/StructWebOptions.csproj" Id="cc0770dd-1253-4876-b523-1a5856ca9986" />
+</Solution>

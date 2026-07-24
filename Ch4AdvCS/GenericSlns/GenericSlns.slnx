@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DecTypeParamsApp/DecTypeParamsApp.csproj" />
+  <Project Path="GenApp1/GenApp1.csproj" />
+  <Project Path="UnboundedGenApp1/UnboundedGenApp1.csproj" />
+</Solution>

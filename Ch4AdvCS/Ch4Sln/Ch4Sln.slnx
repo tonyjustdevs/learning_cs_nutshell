@@ -1,9 +1,7 @@
 <Solution>
-  <Project Path="DelegateAsParam2/DelegatesAsParam2.csproj" />
-  <Project Path="DelegatesApp/DelegatesApp.csproj" />
-  <Project Path="DelegatesAsParam/DelegatesAsParam.csproj" />
-  <Project Path="DGPropertyApp/DGPropertyApp.csproj" />
-  <Project Path="MultiDelegateApp2/MultiDelegateApp2.csproj" Id="e3c04026-c5dc-4489-a82e-bb8fa557afe8" />
-  <Project Path="MultiDelegateCallingApp/MultiDelegateApp.csproj" Id="14a2ae0d-ed5b-4a55-91cf-de7ebf986977" />
-  <Project Path="ProgressReporterDG/ProgressReporterDG.csproj" />
+  <Project Path="ITransformerApp2/ITransformerApp2.csproj" Id="c8d20807-1dd1-4680-8e79-d7fc909028be" />
+  <Project Path="LearningByteAlignment/LearningByteAlignment.csproj" Id="1fa204ea-4ab9-46ba-ae42-3e35c4820366" />
+  <Project Path="MusicApp/MusicApp.csproj" Id="ace3b091-c0be-483f-af67-3248ff988a63" />
+  <Project Path="MusicApp2/MusicApp2.csproj" Id="6076b372-9918-469e-b564-6fb889a18913" />
+  <Project Path="WhyDelegates/WhyDelegates.csproj" Id="f8f6098d-4aeb-49da-83ee-331fc1243e86" />
 </Solution>

@@ -4,9 +4,9 @@
   <Project Path="../ch2soln/ParamTypesApp/ParamTypesApp.csproj" Id="e3c3e322-a1b3-419d-847f-611f917e6733" />
   <Project Path="../ch2soln/ParamTypesApp2/ParamTypesApp2.csproj" Id="82ae6381-07e5-4dcd-9c39-cf35688e55d3" />
   <Project Path="../ch2soln/Val_vs_Ref_Types/Val_vs_Ref_Types.csproj" Id="1aeaaa2e-cd81-44c6-adfa-df5a568d8c0c" />
-  <Project Path="AllYouBaseBelongToUs/AllYouBaseBelongToUs.csproj" />
-  <Project Path="CastingAndRefConversion/CastingAndRefConversion.csproj" />
-  <Project Path="cast_as_is_operators/cast_as_is_operators.csproj" />
-  <Project Path="OutParamApp/OutParamApp.csproj" Id="0add9044-8e2e-4ad7-aafe-edf6431f70b9" />
-  <Project Path="StaticConstructors/StaticConstructors.csproj" />
+  <Project Path="zarchive/June2026/AllYouBaseBelongToUs/AllYouBaseBelongToUs.csproj" />
+  <Project Path="zarchive/June2026/CastingAndRefConversion/CastingAndRefConversion.csproj" />
+  <Project Path="zarchive/June2026/cast_as_is_operators/cast_as_is_operators.csproj" />
+  <Project Path="zarchive/June2026/OutParamApp/OutParamApp.csproj" Id="0add9044-8e2e-4ad7-aafe-edf6431f70b9" />
+  <Project Path="zarchive/June2026/StaticConstructors/StaticConstructors.csproj" />
 </Solution>
