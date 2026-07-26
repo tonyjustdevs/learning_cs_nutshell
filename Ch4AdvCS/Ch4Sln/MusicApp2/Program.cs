@@ -7,7 +7,7 @@ internal class Program
     {
         WriteLine("Welcome to MusicApp2");
 
-`        // compile-time:
+        // compile-time:
         // - compilter writes meta-data tables to the assemblies (dll/exe)
         // - [1] source code to Intermediate Language (IL) (e.g.newobj MusicPlayer::.ctor)
 

@@ -3,5 +3,12 @@
   <Project Path="LearningByteAlignment/LearningByteAlignment.csproj" Id="1fa204ea-4ab9-46ba-ae42-3e35c4820366" />
   <Project Path="MusicApp/MusicApp.csproj" Id="ace3b091-c0be-483f-af67-3248ff988a63" />
   <Project Path="MusicApp2/MusicApp2.csproj" Id="6076b372-9918-469e-b564-6fb889a18913" />
+  <Project Path="MusicApp3/MusicApp3.csproj" Id="67e8f21d-1011-47a8-a4c2-ea8556736cee" />
+  <Project Path="StockPxChgApp/StockPxChgApp.csproj" Id="99c598a8-feee-4c2b-a62a-533b03b0d418" />
+  <Project Path="StockPxChgEventApp/StockPxChgEventApp.csproj" Id="3cdb3109-094e-4821-a502-dfe8acdbe3c9" />
+  <Project Path="StockPxChgEventApp2/StockPxChgEventApp2.csproj" Id="7d7b4d6b-3bde-4901-b7f8-181559d49db0" />
+  <Project Path="StockPxChgEventApp3/StockPxChgEventApp3.csproj" Id="09a9aa56-901a-4fe8-bacb-ce87c55f9c0a" />
+  <Project Path="TimerEvents/TimerEvents.csproj" Id="e5608cd9-e7b8-4528-831d-3500fd5903dd" />
+  <Project Path="TransformApp4/TransformApp4.csproj" Id="fec56f53-1fbe-438f-aca3-2d11813307e0" />
   <Project Path="WhyDelegates/WhyDelegates.csproj" Id="f8f6098d-4aeb-49da-83ee-331fc1243e86" />
 </Solution>

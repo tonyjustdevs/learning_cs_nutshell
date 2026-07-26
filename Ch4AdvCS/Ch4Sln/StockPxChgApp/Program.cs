@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿usings System.ComponentModel.DataAnnotations;
 using static System.Console;
 internal class Program
 {
