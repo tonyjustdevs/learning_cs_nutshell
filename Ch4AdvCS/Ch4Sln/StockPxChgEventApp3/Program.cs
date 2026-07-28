@@ -34,7 +34,7 @@ delegate void PriceChangeEvent(decimal oldpx, decimal newpx);
 
 class Stock
 {
-    public string Name { get; }
+    public string Name { get; } 
 
     decimal price;
     public Stock(string stock)

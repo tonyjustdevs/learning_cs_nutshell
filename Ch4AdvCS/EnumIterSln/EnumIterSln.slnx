@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EnumIterApp1/EnumIterApp1.csproj" />
+  <Project Path="GCAllocatedBytesApp1/GCAllocatedBytesApp1.csproj" Id="1405b1bd-f210-462a-b314-3742a10d6356" />
+  <Project Path="Nullables/Nullables.csproj" Id="5a0ecffe-725d-4b92-a3ca-d90b3ca32776" />
+  <Project Path="Nullables2/Nullables2.csproj" Id="112cb6b5-b811-4b0e-9433-12220c5c6347" />
+  <Project Path="OperatingLifting/OperatingLifting.csproj" Id="ca0943ee-e212-470a-af9c-86567d61174d" />
+  <Project Path="ReadTradesIEnumerable/ReadTradesIEnumerable.csproj" />
+</Solution>

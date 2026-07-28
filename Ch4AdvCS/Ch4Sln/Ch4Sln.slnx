@@ -1,5 +1,9 @@
 <Solution>
+  <Project Path="CapturedVariablesApp/CapturedVariablesApp.csproj" Id="8379db33-4ae1-491d-bed2-531d0110e31d" />
+  <Project Path="CapturingIterationVars/CapturingIterationVars.csproj" Id="119025eb-c57d-4e2f-bedd-09dd79f5d180" />
+  <Project Path="FinallyApp/FinallyApp.csproj" Id="9fef646c-fea1-4fed-9d5e-e26faf7314cd" />
   <Project Path="ITransformerApp2/ITransformerApp2.csproj" Id="c8d20807-1dd1-4680-8e79-d7fc909028be" />
+  <Project Path="LambExpApp/LambExpApp.csproj" Id="71ee9e9d-9a1a-436c-b776-055ec21c93df" />
   <Project Path="LearningByteAlignment/LearningByteAlignment.csproj" Id="1fa204ea-4ab9-46ba-ae42-3e35c4820366" />
   <Project Path="MusicApp/MusicApp.csproj" Id="ace3b091-c0be-483f-af67-3248ff988a63" />
   <Project Path="MusicApp2/MusicApp2.csproj" Id="6076b372-9918-469e-b564-6fb889a18913" />
@@ -8,7 +12,11 @@
   <Project Path="StockPxChgEventApp/StockPxChgEventApp.csproj" Id="3cdb3109-094e-4821-a502-dfe8acdbe3c9" />
   <Project Path="StockPxChgEventApp2/StockPxChgEventApp2.csproj" Id="7d7b4d6b-3bde-4901-b7f8-181559d49db0" />
   <Project Path="StockPxChgEventApp3/StockPxChgEventApp3.csproj" Id="09a9aa56-901a-4fe8-bacb-ce87c55f9c0a" />
+  <Project Path="StockPxChgEventApp4/StockPxChgEventApp4.csproj" Id="f3da79e7-a3ed-4d18-871e-bada4b9c6a81" />
+  <Project Path="ThrowingExceptionsApp/ThrowingExceptionsApp.csproj" Id="80d77555-e7f5-4d4d-ba16-ef950c8ce7e5" />
   <Project Path="TimerEvents/TimerEvents.csproj" Id="e5608cd9-e7b8-4528-831d-3500fd5903dd" />
   <Project Path="TransformApp4/TransformApp4.csproj" Id="fec56f53-1fbe-438f-aca3-2d11813307e0" />
+  <Project Path="TryParseApp/TryParseApp.csproj" Id="b6f45121-500d-4cb1-bf1c-8464279aeaa0" />
+  <Project Path="TryStatementsApp/TryStatementsApp.csproj" Id="0e605c2d-5e30-4c28-b5dd-a90c606e25da" />
   <Project Path="WhyDelegates/WhyDelegates.csproj" Id="f8f6098d-4aeb-49da-83ee-331fc1243e86" />
 </Solution>
