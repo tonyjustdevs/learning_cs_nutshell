@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExtensionMethodsApp1/ExtensionMethodsApp1.csproj" />
+  <Project Path="RecordsApp/RecordsApp.csproj" />
+</Solution>
