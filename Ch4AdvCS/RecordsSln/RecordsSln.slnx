@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="BinaryCompatbilityApp/BinaryCompatbilityApp.csproj" />
+  <Project Path="CalculatedFieldsAndLazyEvalApp/CalculatedFieldsAndLazyEvalApp.csproj" />
+  <Project Path="CorordinatesApp/CorordinatesApp.csproj" />
+  <Project Path="ImmutableMutablesMembers/ImmutableMutablesMembers.csproj" />
+  <Project Path="InitPropertyValidation/InitPropertyValidation.csproj" />
+  <Project Path="RecordsApp1/RecordsApp1.csproj" />
+  <Project Path="RecordStructApp/RecordStructApp.csproj" />
+  <Project Path="RecordSubclassingApp/RecordSubclassingApp.csproj" />
+  <Project Path="UsingRefApp/UsingRefApp.csproj" />
+</Solution>

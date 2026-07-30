@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IterApp/IterApp.csproj" />
+  <Project Path="IterApp2/IterApp2.csproj" Id="0c676535-96f6-4745-90c7-c84b3af3fa49" />
+</Solution>
