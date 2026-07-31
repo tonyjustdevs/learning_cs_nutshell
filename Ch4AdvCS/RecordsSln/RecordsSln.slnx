@@ -2,8 +2,13 @@
   <Project Path="BinaryCompatbilityApp/BinaryCompatbilityApp.csproj" />
   <Project Path="CalculatedFieldsAndLazyEvalApp/CalculatedFieldsAndLazyEvalApp.csproj" />
   <Project Path="CorordinatesApp/CorordinatesApp.csproj" />
+  <Project Path="EqualityComps1/EqualityComps1.csproj" Id="0abeac17-d610-4f99-86ba-c8a7ddc9ff6c" />
   <Project Path="ImmutableMutablesMembers/ImmutableMutablesMembers.csproj" />
   <Project Path="InitPropertyValidation/InitPropertyValidation.csproj" />
+  <Project Path="InitPropValidation2/InitPropValidation2.csproj" Id="cd779dd2-5524-4bd4-acba-199ceeb7f950" />
+  <Project Path="InitPropValidation3/InitPropValidation3.csproj" Id="115d4d43-ce7c-466a-894f-f15f048baab1" />
+  <Project Path="PrimaryConstruction1/PrimaryConstruction1.csproj" Id="ec0c58f8-1594-4427-9e89-9e8ac1274f3a" />
+  <Project Path="PrimaryConstruction2/PrimaryConstruction2.csproj" Id="52fdea7a-37b7-4936-9dcc-ec62ab24437e" />
   <Project Path="RecordsApp1/RecordsApp1.csproj" />
   <Project Path="RecordStructApp/RecordStructApp.csproj" />
   <Project Path="RecordSubclassingApp/RecordSubclassingApp.csproj" />
