@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AttributeClassesApp/AttributeClassesApp.csproj" />
+  <Project Path="TonyAttributes/TonyAttributes.csproj" />
+</Solution>

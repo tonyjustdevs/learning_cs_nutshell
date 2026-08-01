@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BaseSubClsConstructors/BaseSubClsConstructors.csproj" />
+  <Project Path="InterfacesApp2/InterfacesApp2.csproj" />
+  <Project Path="LetMeTalk/LetMeTalk.csproj" />
+  <Project Path="PolymorphicMethods/PolymorphicMethods.csproj" />
+</Solution>
