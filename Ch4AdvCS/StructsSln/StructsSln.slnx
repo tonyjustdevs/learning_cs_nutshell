@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RefFieldApp/RefFieldApp.csproj" Id="a73c59cd-9c16-442b-be55-234178c31270" />
+  <Project Path="RefStructApp/RefStructApp.csproj" Id="ffb685fa-d0c8-4f4e-9716-f93a9fb40704" />
+  <Project Path="StructsApp/StructsApp.csproj" />
+</Solution>
