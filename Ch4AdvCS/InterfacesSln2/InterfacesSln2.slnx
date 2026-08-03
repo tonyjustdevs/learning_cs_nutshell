@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ExplicitInterfaceImplementation/ExplicitInterfaceImplementation.csproj" />
   <Project Path="InterfaceMbrImpVirtually2/InterfaceMbrImpVirtually2.csproj" />
+  <Project Path="InterfacesAndBoxing/StaticIFMbrsApp.csproj" />
   <Project Path="PaymentInterfacesApp/PaymentInterfacesApp.csproj" />
   <Project Path="VitualIntefaceMembersImp/InterfaceMbrImpVirtually.csproj" />
 </Solution>
