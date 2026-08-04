@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StringHandlingApp/StringHandlingApp.csproj" />
+  <Project Path="UtilityClassesApp/UtilityClassesApp.csproj" />
+</Solution>
