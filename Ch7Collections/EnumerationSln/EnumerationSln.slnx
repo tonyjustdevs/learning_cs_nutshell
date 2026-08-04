@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CollectionApp/CollectionApp.csproj" Id="1ceb19fb-f842-4bd6-aa1c-779bf0e825c3" />
+  <Project Path="EnumerationApp/EnumerationApp.csproj" />
+</Solution>
