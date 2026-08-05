@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="CollectionApp/CollectionApp.csproj" Id="1ceb19fb-f842-4bd6-aa1c-779bf0e825c3" />
-  <Project Path="EnumerationApp/EnumerationApp.csproj" />
+  <Project Path="../../../../../../learn/csharp/nutshell/Ch7Collections/EnumerationSln/CloningApp/CloningApp.csproj" Id="0fe2c9be-4e04-434e-97dd-090700fd6dc1" />
+  <Project Path="../../../../../../learn/csharp/nutshell/Ch7Collections/EnumerationSln/CollectionApp/CollectionApp.csproj" Id="1ceb19fb-f842-4bd6-aa1c-779bf0e825c3" />
+  <Project Path="../../../../../../learn/csharp/nutshell/Ch7Collections/EnumerationSln/EnumerationApp/EnumerationApp.csproj" />
 </Solution>
