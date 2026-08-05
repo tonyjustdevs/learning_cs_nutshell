@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="L4_Local_vs_Shared_State/T4_Local_vs_Shared_State.csproj" />
+  <Project Path="T2_JoinAndSleep/T2_JoinAndSleep.csproj" />
+  <Project Path="T3_WaitSleepJoin/T3_WaitSleepJoin.csproj" />
+  <Project Path="T5_Local_vs_Shared_State2/T5_Local_vs_Shared_State2.csproj" />
+  <Project Path="ThreadsApp1/ThreadsApp1.csproj" />
+</Solution>

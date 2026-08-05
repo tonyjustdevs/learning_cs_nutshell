@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DelegatesReview/DelegatesReview.csproj" />
+  <Project Path="T1_SharedStateApp1/T1_SharedStateApp1.csproj" />
+  <Project Path="T2_SharedState_LambdaExpApp/T2_SharedState_LambdaExpApp.csproj" />
+</Solution>
