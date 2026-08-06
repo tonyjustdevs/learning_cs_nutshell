@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="T1_Downloader/T1_LmbExp_Cv.csproj" />
+  <Project Path="T2_ExceptionHandling/T2_ExceptionHandling.csproj" />
+  <Project Path="T3_ForegroundBackground/T3_ForegroundBackground.csproj" Id="e735f330-bab5-4cb1-b2b0-eff81f0189ae" />
+  <Project Path="T4_ProblemsWithForeground/T4_ProblemsWithForeground.csproj" Id="5f48f5b7-7528-4291-9593-4ab9af54ae01" />
+  <Project Path="T5_ManualResetEvent/T5_ManualResetEvent.csproj" Id="e5307eb9-24dd-447c-a9f1-30a9cdac218f" />
+</Solution>
