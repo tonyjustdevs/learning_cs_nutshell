@@ -1,6 +1,8 @@
 <Solution>
-  <Project Path="T1_ThreadPool/T1_ThreadPool.csproj" />
-  <Project Path="T2_ThreadPool2/T2_ThreadPool2.csproj" />
-  <Project Path="T3_ReturnValues/T3_ReturnValues.csproj" Id="7cde7519-87b9-4306-9842-f4a866df4066" />
-  <Project Path="Tasks1_Exceptions/Tasks1_Exceptions.csproj" Id="6f10565c-d668-4b19-a5d9-5606079fc979" />
+  <Project Path="T1_LockingSharedField/T1_SharedField.csproj" />
+  <Project Path="T2_InstanceSharedField/T2_InstanceSharedField.csproj" />
+  <Project Path="T3_StaticSharedField/T3_StaticSharedField.csproj" />
+  <Project Path="T4_LongRunningTask/T4_LongRunningTask.csproj" />
+  <Project Path="T5_PrimeFinderApp/T5_PrimeFinderApp.csproj" />
+  <Project Path="T6_PrimeContinuationTask/T6_PrimeContinuationTask.csproj" />
 </Solution>
