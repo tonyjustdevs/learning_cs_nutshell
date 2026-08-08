@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="T1_Continuations/T1_Continuations.csproj" />
+  <Project Path="T2_ExceptionHandling/T2_ExceptionHandling.csproj" />
+  <Project Path="T3_ExcHand_NonGenericTask/T3_ExcHand_NonGenericTask.csproj" />
+  <Project Path="T4_ContinueWithTasks/T4_ContinueWithTasks.csproj" />
+  <Project Path="T5_TaskCompletionSource/T5_TaskCompletionSource.csproj" />
+</Solution>
