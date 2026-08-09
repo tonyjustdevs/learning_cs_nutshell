@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="T1_TaskCompSrc/T1_TaskCompSrc.csproj" />
+  <Project Path="T2_TaskCompSrc2/T2_TaskCompSrc2.csproj" />
+  <Project Path="T3_RunTCS/T3_RunTCS.csproj" />
+  <Project Path="T4_RunTCSProper/T4_RunTCSProper.csproj" />
+</Solution>
