@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="T1_TCS_Rigmarole/T1_TCS_Rigmarole.csproj" />
+  <Project Path="T2_TCS_Delay/T2_TCS_Delay.csproj" />
+  <Project Path="T3_TaskDelay/T3_TaskDelay.csproj" Id="02398ce5-e912-4735-ae75-0358d67e7d97" />
+</Solution>

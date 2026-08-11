@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AF1_AsyncAwait/AF1_AsyncAwait.csproj" Id="4ef1f18d-3d2e-44aa-b2e3-f9b149a30a50" />
+  <Project Path="AF2_AA/AF2_AA.csproj" Id="0913fe5e-6412-4a97-bf16-fe88022ad9ee" />
+  <Project Path="AF3_AA/AF3_AA.csproj" Id="5b8b1ecd-5614-4853-8baa-4488ed142e06" />
+  <Project Path="AP1_GetNumber/AAF1_GetNumber.csproj" />
+</Solution>
