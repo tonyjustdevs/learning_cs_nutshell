@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AF1_LambdaFns/AF1_LambdaFns.csproj" />
+  <Project Path="AF2_IAsyncEnumeration/AF2_IAsyncEnumeration.csproj" />
+  <Project Path="AF3_AsyncExceptions/AF3_AsyncExceptions.csproj" />
+</Solution>

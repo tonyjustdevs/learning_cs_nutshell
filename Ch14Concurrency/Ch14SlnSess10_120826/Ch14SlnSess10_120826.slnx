@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AA1_WritingAsyncFunctions/AA1_WritingAsyncFunctions.csproj" />
+  <Project Path="AA2_AsyncLambdas/AA2_AsyncLambdas.csproj" />
+  <Project Path="AA3_AsyncIEnumeration/AA3_AsyncIEnumeration.csproj" />
+</Solution>

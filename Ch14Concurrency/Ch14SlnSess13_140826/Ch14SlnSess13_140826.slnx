@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="A1_Optimisation_SyncCompletion/A1_Optimisation_SyncCompletion.csproj" />
+  <Project Path="A2_GetWebPagesAsync/A2_GetWebPagesAsync.csproj" />
+  <Project Path="DG1_DelegatesEventsReview/DG1_DelegatesEventsReview.csproj" />
+  <Project Path="DG2_StockPriceEvents/DG2_StockPriceEvents.csproj" />
+</Solution>
