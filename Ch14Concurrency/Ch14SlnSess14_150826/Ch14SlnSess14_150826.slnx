@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="P1_AsyncValueTask/P1_AsyncValueTask.csproj" />
+  <Project Path="P2_AsyncPatts_Cancellations/P2_AsyncPatts_Cancellations.csproj" />
+  <Project Path="P3_AsyncPatts_Cancellations/P3_AsyncPatts_Cancellations.csproj" />
+  <Project Path="P4_AsyncPatts_ThrowIfCancel/P4_AsyncPatts_ThrowIfCancel.csproj" />
+  <Project Path="P5_AsyncPatts_TimeoutCancels/P5_AsyncPatts_TimeoutCancels.csproj" />
+</Solution>

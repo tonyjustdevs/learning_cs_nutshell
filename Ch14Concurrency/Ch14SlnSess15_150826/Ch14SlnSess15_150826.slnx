@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="P1_CancellationToken/P1_CancellationToken.csproj" />
+  <Project Path="P2_ProgressReporting/P2_ProgressReporting.csproj" />
+  <Project Path="P3_ProgressReporting2/P3_ProgressReporting2.csproj" />
+  <Project Path="P4_IProgress/P4_IProgress.csproj" />
+  <Project Path="P5_ProgressClass/P5_ProgressClass.csproj" />
+</Solution>
