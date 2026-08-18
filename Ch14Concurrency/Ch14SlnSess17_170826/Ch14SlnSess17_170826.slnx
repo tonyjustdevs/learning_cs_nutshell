@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TCombos_DLinParallel/TCombos_DLinParallel.csproj" />
+  <Project Path="TCombos_WhenAllExceptions/TCombos_WhenAllExceptions.csproj" />
+</Solution>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TC1_TaskDelayRace/TC1_TaskDelayRace.csproj" />
+  <Project Path="TC2_TaskTimeOutExtMethod/TC2_TaskTimeOutExtMethod.csproj" />
+</Solution>
