@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="A1_CancelTokensOnSyncTasks/A1_CancelTokensOnSyncTasks.csproj" />
+  <Project Path="A2_TaskContWith_Cancellation/A2_TaskContWith_Cancellation.csproj" />
+</Solution>
