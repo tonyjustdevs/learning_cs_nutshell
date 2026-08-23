@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="A1_SyncCancellation/A1_SyncCancellation.csproj" />
+  <Project Path="A2_GetAnsViaSystemTimer/A2_GetAnsViaSystemTimer.csproj" />
+  <Project Path="A3_RunTCS/A3_RunTCS.csproj" />
+  <Project Path="A4_RunTCS2/A4_RunTCS2.csproj" />
+  <Project Path="A5_TCSAsyncTask/A5_TCSAsyncTask.csproj" />
+</Solution>

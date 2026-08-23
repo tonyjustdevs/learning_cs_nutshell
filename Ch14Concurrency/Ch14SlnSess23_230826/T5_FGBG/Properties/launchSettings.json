@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "T5_FGBG": {
+      "commandName": "Project",
+      "commandLineArgs": "sup mah broskies!"
+    },
+    "TONY1": {
+      "commandName": "Project",
+      "commandLineArgs": "1one 2two 3three"
+    }
+  }
+}

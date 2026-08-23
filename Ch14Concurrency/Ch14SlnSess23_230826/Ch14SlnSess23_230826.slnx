@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="T1_Threads_SharedVsLocalState/T1_Threads_SharedVsLocalState.csproj" />
+  <Project Path="T2_ThreadStart_SharedState/T2_ThreadStart_SharedState.csproj" />
+  <Project Path="T3_SharedFields/T3_SharedFields.csproj" />
+  <Project Path="T4_ExceptionHandling/T4_ExceptionHandling.csproj" />
+  <Project Path="T5_FGBG/T5_FGBG.csproj" />
+  <Project Path="T6_TCS_SysTimerApp/T6_TCS_SysTimerApp.csproj" />
+</Solution>
