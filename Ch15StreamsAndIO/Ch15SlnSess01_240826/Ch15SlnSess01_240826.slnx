@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FS1_TestTxtApp/FS1_TestTxtApp.csproj" />
+  <Project Path="FS2_TestTxtApp2/FS2_TestTxtApp2.csproj" />
+</Solution>
