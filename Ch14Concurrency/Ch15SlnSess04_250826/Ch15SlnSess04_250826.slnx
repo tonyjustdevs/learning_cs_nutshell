@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="P10_BinaryReaderBytesArray/P10_BinaryReaderBytesArray.csproj" />
+  <Project Path="P5_StreamRead/P5_StreamRead.csproj" />
+  <Project Path="P6_StreamWrite/P6_StreamWrite.csproj" />
+  <Project Path="P7_StreamWriteReadEncoding/P7_StreamWriteReadEncoding.csproj" />
+  <Project Path="P8_AsyncWriteRead/P8_AsyncWriteRead.csproj" />
+  <Project Path="P9_AThousandByteStream/P9_AThousandByteStream.csproj" />
+</Solution>

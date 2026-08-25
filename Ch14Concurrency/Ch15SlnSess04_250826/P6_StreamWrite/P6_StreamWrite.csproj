@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\test6.txt" />
+    <Content Include="bin\Debug\net8.0\test6utfhm.txt" />
+    <Content Include="bin\Debug\net8.0\test6utf8.txt" />
+  </ItemGroup>
+
+</Project>
