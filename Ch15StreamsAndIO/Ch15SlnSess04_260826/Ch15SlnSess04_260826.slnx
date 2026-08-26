@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="P5_ReadWriteAsync/P5_ReadWriteAsync.csproj" />
+  <Project Path="P6_BinaryReader/P6_BinaryReader.csproj" />
+  <Project Path="P7_EncodingApp/P7_EncodingApp.csproj" />
+  <Project Path="P8_FlushingMeadows/P8_FlushingMeadows.csproj" />
+</Solution>
