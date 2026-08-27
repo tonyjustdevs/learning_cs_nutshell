@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="P10_ReadOnlyStream/P10_ReadOnlyStream.csproj" />
+  <Project Path="P11_SeekOrigin/P11_SeekOrigin.csproj" />
+  <Project Path="P12_MemoryStream/P12_MemoryStream.csproj" />
+  <Project Path="P13_NamedPipedServer/P13_NamedPipedServer.csproj" />
+  <Project Path="P14_NamedPipedClient/P14_NamedPipedClient.csproj" />
+  <Project Path="P7_TimeOuts/P7_TimeOuts.csproj" />
+  <Project Path="P8_ReadLines_WithLINQ/P8_ReadLines_WithLINQ.csproj" />
+  <Project Path="P9_AppBaseDirectory/P9_AppBaseDirectory.csproj" />
+</Solution>
