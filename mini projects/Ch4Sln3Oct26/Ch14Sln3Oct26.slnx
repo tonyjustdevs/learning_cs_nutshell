@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="P5_BYOEventHandler/P5_BYOEventHandler.csproj" />
+  <Project Path="P6_DelegateBasedFilter/P6_DelegateBasedFilter.csproj" />
+</Solution>

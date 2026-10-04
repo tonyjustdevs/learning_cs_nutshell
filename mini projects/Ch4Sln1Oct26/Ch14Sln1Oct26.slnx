@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="P1_SharedState/P1_SharedState.csproj" />
+  <Project Path="P2_DGInstanceMethod/P2_DGInstanceMethod.csproj" Id="1c56c4c1-82e3-4633-9069-be088d4e601c" />
+  <Project Path="P3_MultiDG/P3_MultiDG.csproj" Id="2150e937-187e-41fb-a110-433aa3ceb63b" />
+  <Project Path="P4_GenericDGTypes/P4_GenericDGTypes.csproj" Id="dcab7634-ef39-4779-8282-b4b53d4aa5aa" />
+</Solution>

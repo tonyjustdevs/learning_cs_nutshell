@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="P1_PluginMethodsWDG/P1_PluginMethodsWDG.csproj" />
+  <Project Path="P2_CustomEvents/P2_CustomNonEvents.csproj" />
+  <Project Path="P3_PriceAlertSystem/P3_PriceAlertSystem.csproj" Id="b4dfb28b-3898-41d3-942d-32c6f1dc0952" />
+  <Project Path="P4_TradeExecutionNotification/P4_TradeExecutionNotification.csproj" Id="2304aaaf-b61f-4b1f-99fc-0eb61be8f858" />
+  <Project Path="P5_MarketDataFeed/P5_MarketDataFeed.csproj" Id="31b4cb72-47dc-4fdc-a2eb-7c1deda507a5" />
+</Solution>

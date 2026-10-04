@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="P5_DGFiltering/P5_DGFiltering.csproj" />
+  <Project Path="P6_OrderValidationPipelines/P6_OrderValidationPipelines.csproj" />
+  <Project Path="P6_OrderValidationPipelines2/P6_OrderValidationPipelines2.csproj" />
+</Solution>
